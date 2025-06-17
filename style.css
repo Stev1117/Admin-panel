@@ -1,0 +1,44 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: #111;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 2px solid yellow;
+}
+
+h1, h2 {
+    color: yellow;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid yellow;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+input, button {
+    padding: 8px;
+    margin: 5px;
+}
+
+button {
+    background-color: yellow;
+    color: black;
+    border: none;
+    cursor: pointer;
+}
